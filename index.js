@@ -56,4 +56,4 @@ app.get('/articulos/:id', (req, res) => {
     }
 
     res.send(articulos[idIndex]);
-})
+});
