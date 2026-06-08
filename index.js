@@ -40,3 +40,7 @@ const articulos = [
         sobreElAutor: "Un veterano medio gagá"
     }
 ];
+
+app.get('/articulos', (req, res) => {
+    res.send(articulos);
+});
