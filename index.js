@@ -44,3 +44,16 @@ const articulos = [
 app.get('/articulos', (req, res) => {
     res.send(articulos);
 });
+
+app.get('/articulos/:id', (req, res) => {
+    const id = Number(req.params.id) ?? null;
+
+    const idIndex = articulos.findIndex(a => a.id === id);
+
+    if (idIndex === -1) {
+        console.log(idIndex);
+        return res.status(404).send("Artículo no encontrado");
+    }
+
+    res.send(articulos[idIndex]);
+})
