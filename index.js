@@ -11,28 +11,32 @@ app.listen(3000, () => {
 });
 
 const articulos = [
-    {id:1,
-    titulo:"",
-    autor:"",
-    cuerpo:"",
-    sobreElAutor:""
+    {
+        id: 1,
+        titulo: "Origen del Carnaval",
+        autor: "Jairo Severo",
+        cuerpo: "Qué sé yo, por algún lugar habrá surgido, pa mí se le ocurrió a Sendic.",
+        sobreElAutor: "Un goloso"
+    },
+    {
+        id: 2,
+        titulo: "Origen del Rap",
+        autor: "Federico Gutierrez",
+        cuerpo: "Yeah, perdonen, kame hame ha. Después del tema del tetris viene el Dragon Ball Rap.",
+        sobreElAutor: "Fulvo"
+    },
+    {
+        id: 3,
+        titulo: "Origen de la cumbia y la plena",
+        autor: "Nicole Silva",
+        cuerpo: "Cómo quieres tú que te quiera cariñito, si de tu amor no me das ni un poquito.",
+        sobreElAutor: "La única mujer del grupo"
+    },
+    {
+        id: 4,
+        titulo: "Historia del Rock Uruguayo",
+        autor: "Gonzalo Gomez",
+        cuerpo: "El desarrollo del rock uruguayo fue lento e inconstante, llegando a su consolidación definitiva a comienzos de los 2000, de la mano de bandas como La Vela Puerca y No Te Va Gustar",
+        sobreElAutor: "Un veterano medio gagá"
     }
-    {id:2,
-    titulo:"",
-    autor:"",
-    cuerpo:"",
-    sobreElAutor:""
-    }
-    {id:3,
-    titulo:"",
-    autor:"",
-    cuerpo:"",
-    sobreElAutor:""
-    }
-    {id:4,
-    titulo:"HISTORIA DEL ROCK URUGUAYO",
-    autor:"https://culturarock.video.blog/2024/05/04/historia-del-rock-uruguayo/",
-    cuerpo:"El desarrollo del rock uruguayo fue lento e inconstante, llegando a su consolidación definitiva a comienzos de los 2000, de la mano de bandas como La Vela Puerca y No Te Va Gustar",
-    sobreElAutor:""    
-    }
-]
+];
