@@ -39,7 +39,7 @@ const articulos = [
   {
     id: 4,
     titulo:
-      "El latido Emigrante: Cómo la Plena Echó Raíces en el alma Uruguaya",
+      "El latido emigrante: cómo la plena echó raíces en el alma Uruguaya",
     autor: "Nicole Silva",
     cuerpo: `                              
 
