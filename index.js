@@ -72,7 +72,7 @@ const articulos = [
     titulo: "Historia del Rock Uruguayo: orígenes, identidad y consolidación",
     autor: "Gonzalo Gomez",
     cuerpo: "",
-    sobreElAutor: "Soy Gonzalo, soy un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
+    sobreElAutor: "Soy Gonzalo, un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
   },
   {
     id: 3,
