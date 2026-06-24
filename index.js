@@ -69,17 +69,17 @@ const articulos = [
   },
   {
     id: 2,
-    titulo: "Los primeros versos: el nacimiento del Rap en nuestro país",
-    autor: "Federico Gutierrez",
-    cuerpo: "",
-    sobreElAutor: "Soy Federico Gutiérrez, me gusta el arte, todo tipo de arte. Estoy estudiando desarrollo web y actualmente trabajo para Urban Roots",
-  },
-  {
-    id: 3,
     titulo: "Historia del Rock Uruguayo: orígenes, identidad y consolidación",
     autor: "Gonzalo Gomez",
     cuerpo: "",
     sobreElAutor: "Soy Gonzalo, soy un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
+  },
+  {
+    id: 3,
+    titulo: "Los primeros versos: el nacimiento del Rap en nuestro país",
+    autor: "Federico Gutierrez",
+    cuerpo: "",
+    sobreElAutor: "Soy Federico Gutiérrez, me gusta el arte, todo tipo de arte. Estoy estudiando desarrollo web y actualmente trabajo para Urban Roots",
   },
   {
     id: 4,
