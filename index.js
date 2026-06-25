@@ -16,7 +16,8 @@ app.get("/", (req, res) => {
 const articulos = [
   {
     id: 1,
-    titulo: "El Carnaval y sus raíces: entre el Rito, la transgresión y la memoria",
+    titulo:
+      "El Carnaval y sus raíces: entre el Rito, la transgresión y la memoria",
     autor: "Jairo Severo",
     cuerpo: `
     <p>Hablar del carnaval uruguayo implica salir de viaje hacia atrás en el tiempo, mucho más lejos que los tablados del Teatro de Verano o las llamadas en el barrio Sur. El carnaval no nació en Uruguay ni en ningún rincón específico de América. Llegó importado, con siglos de historia encima. Comprender su origen real, qué necesidad humana vino a satisfacer y por qué sobrevivió a tantos intentos de acabar con él es el primer paso para entender por qué hoy sigue siendo la mayor fiesta popular del país.</p>
@@ -65,25 +66,56 @@ const articulos = [
     <p>DAECPU. "Historia del Carnaval Uruguayo". daecpu.org.uy</p>
     <p>Escuela 11 Melo. "El Carnaval del Uruguay". UNAM</p>
     <p>Intendencia de Montevideo. (2015). "Historia del Carnaval". montevideo.gub.uy</p>`,
-    sobreElAutor: "Jairo es un estudiante de Ánima. Creció entre pantallas y parlantes, y encontró en la música urbana uruguaya el mismo espíritu que lo lleva a construir cosas desde cero: tomar algo de afuera y hacerlo propio.",
+    sobreElAutor:
+      "Jairo es un estudiante de Ánima. Creció entre pantallas y parlantes, y encontró en la música urbana uruguaya el mismo espíritu que lo lleva a construir cosas desde cero: tomar algo de afuera y hacerlo propio.",
   },
   {
     id: 2,
     titulo: "Historia del Rock Uruguayo: orígenes, identidad y consolidación",
     autor: "Gonzalo Gomez",
     cuerpo: "",
-    sobreElAutor: "Soy Gonzalo, un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
+    sobreElAutor:
+      "Soy Gonzalo, un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
   },
   {
     id: 3,
     titulo: "Los primeros versos: el nacimiento del Rap en nuestro país",
     autor: "Federico Gutierrez",
-    cuerpo: "",
-    sobreElAutor: "Soy Federico Gutiérrez, me gusta el arte, todo tipo de arte. Estoy estudiando desarrollo web y actualmente trabajo para Urban Roots",
+    cuerpo: `<p>El rap es hoy uno de los géneros musicales más escuchados del mundo. Se lo encuentra en plataformas digitales, redes sociales y emisoras de radio. Sin embargo, no muchas personas conocen en profundidad cómo llegó este género a Uruguay y de qué manera se fue transformando hasta convertirse en un movimiento propio. Lo que comenzó como un movimiento cultural surgido en los barrios marginales de Nueva York, continuó cruzando fronteras y llegando a nuestro país.</p>
+
+<h2>Los orígenes: Nueva York como cuna del rap</h2>
+
+<p>El rap tiene sus comienzos en 1970 en la ciudad de Nueva York, impulsado por comunidades afroamericanas y latinas que buscaban expresar su descontento frente a la desigualdad social. Desde el principio, el género estuvo muy vinculado a lo que se vive en los barrios más vulnerables: el rap era una forma de contar la realidad cuando otros medios no daban voz a esas cosas que pasaban en el ambiente urbano. <strong>Una de las canciones que contribuyó notoriamente a la difusión internacional del género fue "Rapper's Delight" de The Sugarhill Gang, lanzada en 1979.</strong> Gracias a su popularidad, el rap comenzó a cruzar fronteras y conocer culturas diferentes.</p>
+
+<h2>Las primeras señales en Uruguay</h2>
+
+<p>En Uruguay, las primeras señales de rap comenzaron a aparecer durante 1980, cuando jóvenes empezaron a descubrir artistas extranjeros a través de grabaciones traídas del exterior, ya que acceder a este tipo de música era muy limitado en el país. <strong>En 1988, el músico uruguayo Renzo Teflón grabó "Fuimos campeones en el 30", considerada la primera canción de rap en la historia del hip hop en Uruguay.</strong> Este tema apareció en su álbum <em>Je-Je</em>, lanzado ese mismo año, y fue llamativo porque Teflón no era un artista del género, sino un cantante de rock que incorporó estrofas rapeadas en sus canciones. Aunque el rap todavía no tenía tanta presencia en el país, estas primeras experimentaciones abrieron una puerta importante para los artistas locales que vendrían después.</p>
+
+<p>Ese mismo año, uno de los futuros integrantes de Víctimas del Sistema, conocido como D-Mente, regresó al país tras haber vivido quince años en Dinamarca, trayendo consigo grabaciones de artistas como Beastie Boys, Run DMC y LL Cool J. En el barrio comenzó a compartirlas con otros jóvenes y juntos decidieron aprender a hacer rap de forma completamente autodidacta. En Uruguay el género era ignorado por los medios y era imposible conseguir discos, pero lejos de desanimarse, estos jóvenes siguieron adelante motivados por la pasión hacia un género que sentían como propio.</p>
+
+<h2>Los 90': el movimiento toma forma</h2>
+
+<p>El rap en Uruguay comenzó a tomar fuerza a comienzos de los 90', con la aparición de grupos pioneros como Fun You Stupid!, Critical Zone y Víctimas del Sistema. <strong>En 1994, ya consolidados como grupo, Víctimas del Sistema debutaron en la discoteca "Amarillo" junto a Fun You Stupid</strong>, y comenzaron a moverse por los circuitos underground de Montevideo, presentándose en fiestas de hip hop, campeonatos de skate, teatros, bares y festivales. Estas presentaciones en vivo fueron clave para el movimiento, ya que las letras trataban la realidad social del país y de Latinoamérica, y conectaban con un público joven que buscaba nuevas formas de expresión.</p>
+
+<p>En 1997 nació La Teja Pride, banda y colectivo de hip hop cuyo nombre viene del barrio La Teja. Durante dos años a partir de 1998 armaron un programa en la radio comunitaria Alternativa FM para difundir rap, electrónica y funk, ante la falta del género en los medios convencionales. Este esfuerzo por dar difusión al género demuestra lo comprometida que estaba la escena uruguaya con el movimiento.</p>
+
+<p><strong>A fines de 1999, Víctimas del Sistema y otros grupos dieron un paso colectivo muy importante al lanzar el compilado <em>Sudacas en Guerra</em> (volumen 1)</strong>, que juntaba a las bandas del colectivo: "VDS", "La Revolución", "El Lado Oscuro" y "Último Xiclón". Este junte buscaba no solo difundir la música sino también generar una red de apoyo entre los artistas del género, en un contexto donde los medios de comunicación seguían ignorando al hip hop uruguayo.</p>
+
+<h2>El auge y la identidad propia</h2>
+
+<p>A partir del año 2003, La Teja Pride firmó con la discográfica local Bizarro Records, lo que impulsó el desarrollo del género en el país. Luego del 2005 el rap experimentó un auge con la aparición de nuevos grupos como Beat Urbano y Arrajatabla Flow Club & The Warriors. Cada grupo comenzó a incorporar elementos propios de la cultura uruguaya: Contra las Cuerdas fusionó el rap con el candombe, La Teja Pride con la electrónica, AFC con el rock. <strong>Esta búsqueda de identidad local fue lo que diferenció al rap uruguayo del resto de la región: no se trataba de copiar un modelo importado, sino de apropiarse de él y transformarlo en algo propio.</strong></p>
+
+<p>En conclusión, el rap en Uruguay es un movimiento construido desde abajo, por jóvenes sin recursos ni reconocimiento que encontraron en la música una forma de convertir las protestas en rimas y poesía. Hoy es una parte fundamental de la cultura musical uruguaya, y su historia es también la historia de una generación que se negó a ser ignorada.</p>
+
+<p><strong>Fuentes:</strong> Cano, M. (2023). El hip hop en Uruguay. Librevista, n°53 (librevista.com) · Cient8chenta (2010). Entre rap y hip hop (180.com.uy) · El Observador (2018). Esto no es una moda: cómo el rap se hizo uruguayo (elobservador.com.uy) · Estuario Editora (2024). Uruguayan Locos (estuarioeditora.com) · La Factoría del Ritmo (2000). Rap uruguayo (lafactoriadelritmo.com) · Rapealo (2026). La historia más completa del hip hop (rapealo.com) · Wikipedia (2026). Hip hop latino · Wikipedia (2026). Renzo Teflón</p>
+>`,
+    sobreElAutor:
+      "Soy Federico Gutiérrez, tengo 20 años y estudio en Ánima. Me gusta el arte urbano y aprender sobre la cultura de mi país, en este articulo nos adentramos en la evolución del rap en Uruguay y observamos como protestas se convirtieron en versos.",
   },
   {
     id: 4,
-    titulo: "El latido emigrante: cómo la plena echó raíces en el alma Uruguaya",
+    titulo:
+      "El latido emigrante: cómo la plena echó raíces en el alma Uruguaya",
     autor: "Nicole Silva",
     cuerpo: `
       <p><strong>Este texto explora el viaje cultural y emocional de la plena,</strong> un ritmo nacido en el Caribe portorriqueño que, desafiando distancias geográficas, se transformó en uno de los pilares de la identidad popular de Uruguay. A través de un recorrido histórico y social, se analiza cómo los sectores obreros rioplatenses adoptaron y moldearon esta música, convirtiéndola en una herramienta de expresión comunitaria viva y en un reflejo de que el arte es, en última instancia, el canal sensorial por el cual los pueblos comunican aquello que las palabras no alcanzan a contener.</p>
@@ -129,7 +161,8 @@ const articulos = [
 
       <p>Ministerio de Educación y Cultura de Uruguay (MEC). Reseñas históricas sobre el desarrollo de la música tropical uruguaya y su impacto en las industrias culturales locales</p>
     `,
-    sobreElAutor: "Soy Nicole Silva, estudiante de Ánima y amante de la música. Disfruto descubrir nuevos ritmos y conocer las historias que hay detrás de cada expresión artística, ya que la música me permite conectar con mis emociones. Al realizar este artículo sobre la plena, pude profundizar en un género que me llena de energía, me hace bailar y me permitió comprender cómo una manifestación cultural puede transformarse y formar parte de la identidad de un país.",
+    sobreElAutor:
+      "Soy Nicole Silva, estudiante de Ánima y amante de la música. Disfruto descubrir nuevos ritmos y conocer las historias que hay detrás de cada expresión artística, ya que la música me permite conectar con mis emociones. Al realizar este artículo sobre la plena, pude profundizar en un género que me llena de energía, me hace bailar y me permitió comprender cómo una manifestación cultural puede transformarse y formar parte de la identidad de un país.",
   },
 ];
 
