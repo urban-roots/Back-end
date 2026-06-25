@@ -6,4 +6,4 @@ Para instalar el proyecto, debes clonar este repositorio y ejecutar en tu consol
 
 ## Ejecutar
 
-Para ejecutar el proyecto después de instalarlo, debes ejecutar en tu consola `npm run dev`.
+Para ejecutar el proyecto después de instalarlo, debes ejecutar en tu consola `npm start`.
