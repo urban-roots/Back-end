@@ -217,9 +217,9 @@ const articulos = [
       <p>En conclusión, el arraigo de la plena en el Uruguay contemporáneo es el testimonio vivo de una identidad que no es estática, sino un río en constante movimiento que se nutre de múltiples vertientes. Hoy en día, este ritmo no solo inunda los ómnibus, las radios y las fiestas familiares, sino que ha ganado un lugar de respeto en el Carnaval y en las salas de concierto más prestigiosas del país, dialogando de igual a igual con el candombe y el rock nacional. Aquella música que llegó como extranjera se ha despojado de su pasaporte para nacionalizarse uruguaya por derecho propio.</p>
 
       <p><strong>Fuentes:</strong></p>
-      <p><a href="https://www.elobservador.com.uy/nota/la-plena-da-sus-primeros-pasos-oficiales-201763500" target="_blank">https://www.elobservador.com.uy/nota/la-plena-da-sus-primeros-pasos-oficiales-201763500</a></p>
+      <p>Tabárez, Nicolás (2017). La plena da sus primeros pasos oficiales. Diario El Observador.</p>
 
-      <p><a href="https://www.historiadelamusicapopularuruguaya.com/" target="_blank">https://www.historiadelamusicapopularuruguaya.com/</a></p>
+      <p>(s.a.). La música tropical en los 60. Historia de la música popular uruguaya.</p>
 
       <p>Aharonián, Coriún (2007). Músicas populares del Uruguay. Universidad de la República, Escuela Universitaria de Música, Montevideo.</p>
 
