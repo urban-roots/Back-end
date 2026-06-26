@@ -179,7 +179,7 @@ const articulos = [
       <p>Wikipedia (s.f.). Renzo Teflón</p>
     `,
     sobreElAutor:
-      "Soy Federico Gutiérrez, tengo 20 años y estudio en Ánima. Me gusta el arte urbano y aprender sobre la cultura de mi país, en este articulo nos adentramos en la evolución del rap en Uruguay y observamos como protestas se convirtieron en versos.",
+      "Soy Federico Gutiérrez, tengo 20 años y estudio en Ánima. Me gusta el arte urbano y aprender sobre la cultura de mi país.",
   },
   {
     id: 4,
@@ -219,9 +219,9 @@ const articulos = [
       <p><strong>Fuentes:</strong></p>
       <p>Tabárez, Nicolás (2017). La plena da sus primeros pasos oficiales. Diario El Observador.</p>
 
-      <p>(s.a.). La música tropical en los 60. Historia de la música popular uruguaya.</p>
+      <p>"La música tropical en los 60". Historia de la música popular uruguaya.</p>
 
-      <p>Aharonián, Coriún (2007). Músicas populares del Uruguay. Universidad de la República, Escuela Universitaria de Música, Montevideo.</p>
+      <p>Aharonián, Coriún (2007). "Músicas populares del Uruguay". Universidad de la República, Escuela Universitaria de Música, Montevideo.</p>
 
       <p>Forrisi, Carlos (2014). "La ruta de la plena: del Caribe al Río de la Plata". Artículo publicado en el portal cultural Brecha Digital.</p>
 
