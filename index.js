@@ -2,13 +2,19 @@ const express = require("express");
 const cors = require("cors");
 require("dotenv").config();
 
+// Inicializar express
 const app = express();
 
+// Puerto donde corre, configurado en el archivo .env o por defecto al 3000
 const PORT = process.env.PORT || 3000;
 
+// Se puede acceder a la API desde los siguientes links:
 app.use(cors({ origin: ["http://127.0.0.1:5500", "http://127.0.0.1:5501"] }));
+
+// Utilizar respuestas JSON de Express
 app.use(express.json());
 
+// Prueba de que existe el backend
 app.get("/", (req, res) => {
   return res.send("Hola mundo");
 });
@@ -234,23 +240,30 @@ const articulos = [
   },
 ];
 
+// Obtener una lista completa de los artículos en formato JSON
 app.get("/articulos", (req, res) => {
   res.send(articulos);
 });
 
+// Buscar un artículo por ID
 app.get("/articulos/:id", (req, res) => {
-  const id = Number(req.params.id) ?? null;
+  // Obtener ID desde la URL (?id={número})
+  const id = Number(req.params.id);
 
+  // Buscar en el array, si lo encuentra, devuelve el índice en el array
+  // Sino, devuelve -1
   const idIndex = articulos.findIndex((a) => a.id === id);
 
+  // Si no lo encuentra, enviar error de no encontrado
   if (idIndex === -1) {
-    console.log(idIndex);
     return res.status(404).send("Artículo no encontrado");
   }
 
+  // Enviar JSON del artículo
   res.send(articulos[idIndex]);
 });
 
+// Abrir la API para su uso en el puerto configurado en el archivo .env
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
