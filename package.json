@@ -1,7 +1,7 @@
 {
   "name": "back-end",
   "version": "1.0.0",
-  "description": "",
+  "description": "Para instalar el proyecto, debes clonar este repositorio y ejecutar en tu consola `npm i`.",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon ./index.js",
@@ -24,5 +24,6 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
-  }
+  },
+  "devDependencies": {}
 }

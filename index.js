@@ -73,7 +73,60 @@ const articulos = [
     id: 2,
     titulo: "Historia del Rock Uruguayo: orígenes, identidad y consolidación",
     autor: "Gonzalo Gomez",
-    cuerpo: "",
+    cuerpo: `
+
+    <p><strong>Las raíces culturales: el suelo donde creció el rock</strong></p>
+    <p>Para entender el rock uruguayo, primero hay que mirar toda la música que ya existía antes. La música en Uruguay nació de la mezcla de distintas culturas y costumbres que fueron llegando al país con los años. Gracias a esa combinación de estilos y tradiciones se fue formando una identidad propia que más adelante ayudó a que creciera el rock nacional.</p>
+
+    <p><strong>Los primeros chispazos (1965–1967): Los Shakers y el beat</p></strong>
+    <p>Desde la década del 60´, bandas como Los Shakers y El Kinto fueron pioneras en la fusión del rock con ritmos locales, creando un sonido único que resonó en la juventud uruguaya. Los Shakers, que eran un grupo de jóvenes casi adolescentes, lanzaron en 1965  "Break It All", el primer hit rockero del Cono Sur. Fue grabada y difundida en Buenos Aires y hasta hoy suele confundirse con una canción temprana de The Beatles.</p>
+
+    <figure>
+      <img src="img/rock-1.png" alt="Los Shakers y El Kinto fueron pioneras en la fusión del rock" />
+      <figcaption>
+        Los Shakers y El Kinto fueron pioneras en la fusión del rock.
+        <cite>Foto: Little Butterfly Records</cite>
+      </figcaption>
+    </figure>
+
+    <p>La banda pionera por excelencia fue El Kinto y estaba liderada por Eduardo Mateo y Rubén Rada, dos emblemas de la música uruguaya. Este grupo fue quien estableció el candombe-beat en la humilde escena montevideana. En las próximas décadas, el subgénero sería muy valorado en ambas orillas del Río de la Plata, llegando a influenciar a grupos masivos como Los Piojos, Bersuit, La Vela Puerca y No Te Va Gustar.</p>
+
+    <p><strong>El silencio obligado: la dictadura (1973–1983)</strong></p>
+    <p>Llegados los 70´, la dictadura cívico-militar en años de absoluta opresión, se encargó de abortar bruscamente los tiempos locos del rock uruguayo. Además del corte que literalmente acabó con el rock urbano, debieron exiliarse las principales figuras del folclorismo: Alfredo Zitarrosa, Daniel Viglietti y Los Olimareños, entre otros.</p>
+
+    <p><strong>El rock después de la dictadura (1983–1989)</strong></p>    
+    <p>Luego, llegó el esperado resurgimiento que comenzó en 1983, cuando la dictadura ya estaba llegando a su fin y se empezaron a recuperar algunas libertades, especialmente en el ámbito cultural. En ese contexto aparecieron nuevas bandas como Los Estómagos, Los Traidores, Los Tontos, La Tabaré, El Cuarteto de Nos y Zero, entre otras, donde cada una tenía su propio estilo, desde el punk hasta el ska y la new wave.  Muchas de ellas participaron en el disco recopilatorio Graffiti, lanzado en 1985, que hoy es considerado uno de los puntos de partida del rock uruguayo moderno.</p>
+
+    <p><strong>Las influencias que dieron forma al sonido</strong></p>
+    <p>Dos figuras clave canalizaron esas influencias desde el exterior. El músico Jaime Roos y el productor Alfonso Carbone tienen en común el haber recorrido Europa, para constituirse a su regreso en generadores de nuevos modelos de gestión cultural.</p> 
+
+    <figure>
+      <img src="img/rock-2.png" alt="Bandas que influenciaron el rock uruguayo" />
+      <figcaption>
+        Bandas que influenciaron el rock uruguayo
+        <cite>Foto: Bandas que influenciaron el rock uruguayo</cite>
+      </figcaption>
+    </figure>
+
+    <p>En 1986, el festival Montevideo Rock reunió a miles de personas y marcó un antes y un después para el rock nacional que congregó a 50.000 personas en tres fechas, incluyendo a Los Prisioneros de Chile, Legião Urbana de Brasil, y Sumo y Fito Páez de Argentina. Fue un hecho bisagra para el rock uruguayo.
+    Ya pasados los 90´, vino el recambio generacional que trajo el punk melódico de Trotsky Vengarán, el post-punk de Buenos Muchachos y el hard-rock de La Trampa, Mano Negra quien dió un histórico concierto en Montevideo que resultó en el nacimiento de La Abuela Coca, primera banda de rock mestizo de Uruguay, subgénero que tendría muchos continuadores como La Vela Puerca y No Te Va Gustar.</p>
+
+    <p>También aparecen Buitres y Níquel, quienes fueron las bandas más populares en ese momento. Níquel logró su salto a la popularidad en 1991 con "Candombe de la aduana", probablemente el mayor hit del rock uruguayo pre-consolidación. Ambas bandas llenaron el Teatro de Verano en 1993, toda una hazaña para una banda nacional en ese entonces.</p>
+ 
+    <p>En 1994, El Cuarteto de Nos lanzó "Otra navidad en las trincheras", nada menos que el disco más vendido de la historia del rock nacional, que los llevó a su primer show repleto en el Teatro de Verano ante más de cinco mil personas.</p>
+    
+    <p><strong>La consolidación definitiva (1999–2006): Uruguay rockero ante el mundo </p></strong>
+    <p>La consolidación definitiva, fue el festival Pilsen Rock, realizado por primera vez en 2003, fue el gran símbolo de esta masificación. En su edición de 2006 se cobró entrada por primera vez y fue la más convocante de toda la historia del festival y del rock uruguayo: 145.000 personas, dando pruebas contundentes de que el rock uruguayo era por fin un fenómeno masivo y popular.</p>
+
+    <p><strong>La identidad: lo que hace único al rock uruguayo</strong></p>
+    <p>Resumiendo, a medida que el mundo se fue conectando más, llegaron nuevas influencias de varias partes, que los músicos aprovecharon para experimentar y crear sonidos propios, creando una música variada, creativa y siempre en movimiento que fue construyendo una identidad propia que distingue a nuestro rock hasta el día de hoy.
+    <p>Como reflexión, lo más interesante del rock uruguayo es cómo fue cambiando sin perder su esencia. En sus inicios era una forma de expresarse y de ir un poco contra lo establecido, y durante los años de represión muchas canciones sirvieron para decir cosas que no siempre se podían decir de frente. Con el tiempo empezó a hablar de problemas sociales, de la realidad del país y también de cosas cotidianas que le pasan a cualquiera y también cuentan historias que hacen pensar y muestran que la música también puede ser una forma de expresar lo que uno siente o lo que no le gusta de la realidad.</p>
+
+    <p><strong>Fuentes:</strong></p>
+    <p>Cultura Rock (2024). "culturarock.video.blog/2024/05/04/historia-del-rock-uruguayo"</p>
+    <p>Victor Palacios (2025). "centroculturalpareja.com/la-musica-uruguaya-diversidad-cultural"</p>
+    <p>Gabriel Peveroni. "henciclopedia.org.uy/autores/Peveroni/RockUruguayo.htm"</p>    
+    `,
     sobreElAutor:
       "Soy Gonzalo, un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
   },
