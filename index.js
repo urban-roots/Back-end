@@ -20,52 +20,55 @@ const articulos = [
       "El Carnaval y sus raíces: entre el Rito, la transgresión y la memoria",
     autor: "Jairo Severo",
     cuerpo: `
-    <p>Hablar del carnaval uruguayo implica salir de viaje hacia atrás en el tiempo, mucho más lejos que los tablados del Teatro de Verano o las llamadas en el barrio Sur. El carnaval no nació en Uruguay ni en ningún rincón específico de América. Llegó importado, con siglos de historia encima. Comprender su origen real, qué necesidad humana vino a satisfacer y por qué sobrevivió a tantos intentos de acabar con él es el primer paso para entender por qué hoy sigue siendo la mayor fiesta popular del país.</p>
-      
-    <h2> Un rito que viene de Roma</h2>
-    <p>El inicio del carnaval no es cristiano, aunque la Iglesia haya sido clave para darle su forma y su lugar en el calendario. El carnaval viene de la "festa calendarum", una celebración romana con raíces en las bacanales griegas: una fiesta marcada por el exceso, el disfraz y la vuelta de cabeza de las jerarquías sociales. Milita Alfaro señala que la Navidad corrió gradualmente a las fiestas de las calendas, pero que eso fue solo un cambio de fecha, no de fondo. La fiesta se trasladó a los tres días previos al Miércoles de Ceniza, tomó el nombre de carnelevare ("adiós a la carne") y siguió adelante sin excepciones.</p>
+      <p>Hablar del carnaval uruguayo implica salir de viaje hacia atrás en el tiempo, mucho más lejos que los tablados del Teatro de Verano o las llamadas en el barrio Sur. El carnaval no nació en Uruguay ni en ningún rincón específico de América. Llegó importado, con siglos de historia encima. Comprender su origen real, qué necesidad humana vino a satisfacer y por qué sobrevivió a tantos intentos de acabar con él es el primer paso para entender por qué hoy sigue siendo la mayor fiesta popular del país.</p>
 
-    <p>El carnaval no nació como una fiesta de alegría simple ni de entretenimiento inocente. Nació como un rito de inversión: un tiempo acotado en el que el mundo se ponía al revés. Los poderosos eran ridiculizados, los que no tenían voz recuperaban un lugar que la vida cotidiana les negaba, y las diferencias de clase, género y raza se borraban por un momento bajo la máscara. No es casualidad que el dios del carnaval sea Momo, figura mitológica griega del sarcasmo y la burla, representado con una máscara y un muñeco de cabeza grotesca. <strong>Era el único momento del año en que el pueblo podía decir la verdad sin que nadie tuviera derecho de quejarse.</strong></p>
-    <p>El carnaval llegó a Montevideo en tiempos de la Colonia, traído por España. Los primeros pobladores imitaban costumbres del carnaval medieval europeo, como tirarse con huevos vaciados y rellenos de agua. El Montevideo de principios del siglo XIX vivió lo que Alfaro llama el "carnaval heroico" o "bárbaro": una fiesta poco organizada, masiva y espontánea, marcada por la violencia del juego y por una mezcla de clases y razas que no se veía el resto del año.</p>
+      <h2>Un rito que viene de Roma</h2>
 
-    <h2>Las raíces africanas y el candombe</h2>
+      <p>El inicio del carnaval no es cristiano, aunque la Iglesia haya sido clave para darle su forma y su lugar en el calendario. Según un documento de la Escuela 11 de Melo, recuperado por la UNAM, el carnaval viene de la "festa calendarum", una celebración romana con raíces en las bacanales griegas: una fiesta marcada por el exceso, el disfraz y la vuelta de cabeza de las jerarquías sociales. Milita Alfaro, en su libro "Carnaval. Una historia social de Montevideo desde la perspectiva de la fiesta", señala que la Navidad corrió gradualmente a las fiestas de las calendas, pero que eso fue solo un cambio de fecha, no de fondo. La fiesta se trasladó a los tres días previos al Miércoles de Ceniza, tomó el nombre de carnelevare ("adiós a la carne") y siguió adelante sin excepciones, repitiéndose cada año con una fuerza que nadie pudo detener.</p>
 
-    <p>Una de las raíces más importantes del carnaval montevideano es la de la población africana esclavizada. En la Colonia, los negros esclavos montevideanos se cubrían con túnicas de vivos colores y salían a la calle para ir hasta las murallas, donde se les permitía entonar sus cánticos y realizar sus bailes: uno de los pocos espacios que el régimen colonial dejaba para la expresión de su propia cultura.</p>
+      <p>El carnaval no nació como una fiesta de alegría simple ni de entretenimiento inocente. Nació como un rito de inversión: un tiempo acotado en el que el mundo se ponía al revés. Los poderosos eran ridiculizados, los que no tenían voz recuperaban un lugar que la vida cotidiana les negaba, y las diferencias de clase, género y raza se borraban por un momento bajo la máscara. No es casualidad que el dios del carnaval sea Momo, figura mitológica griega del sarcasmo y la burla, representado con una máscara y un muñeco de cabeza grotesca, símbolo de la locura: el dios de decirle la verdad al poder riéndose de él. Alfaro lo describe como un "rito de desorden" que implica "liberación pulsional, inversión del mundo, soporte inmemorial de lenguajes subversivos y de conductas reñidas con la moderación y el orden establecido". <strong>Era el único momento del año en que el pueblo podía decir la verdad sin que nadie tuviera derecho de quejarse,</strong> lo que lo hacía incómodo para el poder, que lo reglamentaba y recortaba, pero nunca terminaba de eliminarlo.</p>
 
-    <p>El candombe tiene un carácter religioso y ceremonial que va más allá del entretenimiento: sus tambores cumplen una función dentro de un lenguaje rítmico de raíz africana, y sus personajes (el Gramillero, la Mamá Vieja, el Escobero) remiten a los ancestros africanos y a sus roles dentro de la comunidad. <strong>Las primeras comparsas de negros aparecen en 1832; la primera formalmente reconocida fue "Raza Africana", en 1865, veinte años antes de la abolición.</strong> Sus integrantes ya usaban el carnaval para hablar de la discriminación que seguía pesando sobre ellos, con letras que soñaban con un mundo al revés.</p>
+      <p>El carnaval llegó a Montevideo en tiempos de la Colonia, traído por España, que a su vez lo había recibido de Roma. Los primeros pobladores imitaban costumbres del carnaval medieval europeo, como tirarse con huevos vaciados y rellenos de agua. El Montevideo de principios del siglo XIX vivió lo que Alfaro llama el "carnaval heroico" o "bárbaro": una fiesta poco organizada, masiva y espontánea, marcada por la violencia del juego y por una mezcla de clases y razas que no se veía el resto del año. Un cronista de "La Matraca" lo describió en 1832: "El ocioso, el písaverde, la elegante, el tenderito, los criados, los amos, hasta la oposición, todos buscan máscaras y hallan entretenimiento… Por acá la policía; por allá los negros con el tango". La cita muestra que el carnaval colonial ya era un espacio de encuentro entre clases y razas separadas en la vida cotidiana, y que la tensión entre el orden y la fiesta popular nació junto con ella.</p>
 
-    <h2>La murga: de Cádiz a los tablados</h2>
+      <h2>Las raíces africanas y el candombe</h2>
 
-    <p>Si el carnaval tiene raíces romanas y africanas, la murga, hoy el género más popular del carnaval uruguayo, tiene su origen más directo en España. La expresión murguera tuvo su cuna en España, inspirándose en las chirigotas del Carnaval de Cádiz. <strong>La primera murga en Uruguay fue La Gaditana que se va, en 1908.</strong> Su nombre era un guiño a su origen: venía de Cádiz y se iba, pero dejaba algo. El éxito fue inmediato: en 1910 ya había siete murgas anotadas para participar en el concurso.</p>
+      <p>Una de las raíces más importantes del carnaval montevideano es la de la población africana esclavizada. El documento de la UNAM precisa que en la Colonia "los negros esclavos montevideanos se cubrían con túnicas de vivos y chillones colores y salían a la calle para ir hasta las murallas, a cuyo pie se les permitía entonar sus cánticos y realizar sus bailes": uno de los pocos espacios que el régimen colonial dejaba para la expresión de su propia cultura.</p>
 
-    <p>Pero la murga uruguaya no es una copia de las chirigotas gaditanas: tomó de ellas la estructura básica (el coro, las letras críticas y picarescas, el maquillaje), pero fue sumando cosas propias. En la "marcha camión" se identifican ritmos del candombe de origen africano. La murga uruguaya es, en ese sentido, una mezcla: española en su estructura, africana en su ritmo, y profundamente rioplatense en su contenido.</p>
+      <p>El candombe tiene un carácter religioso y ceremonial que va más allá del entretenimiento: sus tambores cumplen una función dentro de un lenguaje rítmico de raíz africana, y sus personajes (el Gramillero, la Mamá Vieja, el Escobero) remiten a los ancestros africanos y a sus roles dentro de la comunidad. <strong>Las primeras comparsas de negros aparecen en 1832; la primera formalmente reconocida fue "Raza Africana", en 1865, veinte años antes de la abolición.</strong> Alfaro registra que sus integrantes ya usaban el carnaval para hablar de la discriminación que seguía pesando sobre ellos, con letras que soñaban con un mundo al revés. Es difícil encontrar una expresión más clara del espíritu original del carnaval: la fiesta como un espacio donde el orden injusto de todos los días es puesto en duda, aunque sea por unos días.</p>
 
-    <figure>
-      <img src="img/carnaval-1.webp" alt="La murga Doña Bastarda en un tablado de Montevideo" />
-      <figcaption>
-        La murga Doña Bastarda en un tablado de Montevideo.
-        <cite>Foto: Ignacio Sánchez</cite>
-      </figcaption>
-    </figure>
+      <h2>La murga: de Cádiz a los tablados</h2>
 
-    <p>A lo largo de toda esta historia hay algo que se mantiene igual: el carnaval siempre fue un espacio de crítica y resistencia, desde los romanos que se burlaban de los senadores hasta las murgas de hoy que cada año desarman la actualidad política con cuplés afilados. Las élites de todos los períodos intentaron controlarlo sin nunca poder eliminarlo del todo. A fines del siglo XIX ese proceso terminó en la transformación del "carnaval bárbaro" en el "carnaval civilizado" de desfiles ordenados y tablados barriales: lo que se ganó en organización y espectáculo, se perdió en participación directa.</p>
+      <p>Si el carnaval tiene raíces romanas y africanas, la murga, hoy el género más popular del carnaval uruguayo, tiene su origen más directo en España. Como señala el material de Plataforma Ceibal elaborado por Ana Laura Cruz, "la expresión murguera tuvo su cuna en España, inspirándose en las chirigotas del Carnaval de Cádiz". <strong>La primera murga en Uruguay fue La Gaditana que se va, en 1908,</strong> parte del repertorio de la Compañía de Zarzuelas dirigida por Diego Muñoz; su nombre era un guiño a su origen: venía de Cádiz y se iba, pero dejaba algo. El éxito fue inmediato: en 1910 ya había siete murgas anotadas para participar en el concurso.</p>
 
-    <p>El carnaval de hoy conserva la forma del rito que lo vio nacer, pero la sociedad que lo sostiene ya no es la misma: más fragmentada, más atenta a de qué lado canta cada murga que al simple hecho de que cante. <strong>El carnaval sigue siendo, en el fondo, la forma en que una sociedad se mira a sí misma con el disfraz puesto y se permite decir lo que piensa.</strong></p>
+      <p>Pero la murga uruguaya no es una copia de las chirigotas gaditanas: tomó de ellas la estructura básica (el coro, las letras críticas y picarescas, el maquillaje), pero fue sumando cosas propias. Como señala Ceibal, en la "marcha camión" se identifican ritmos del candombe de origen africano. La murga uruguaya es, en ese sentido, una mezcla: española en su estructura, africana en su ritmo, y profundamente rioplatense en su contenido.</p>
 
-    <figure>
-      <img src="img/carnaval-2.webp" alt="Murga Cayo la Cabra en el desfile inaugural de Carnaval 2018" />
-      <figcaption>
-        Murga Cayo la Cabra en el desfile inaugural de Carnaval 2018 por Av. 18 de Julio en Montevideo.
-        <cite>Foto: Marcelo Bonjour</cite>
-      </figcaption>
-    </figure>
+      <figure>
+        <img src="img/carnaval-1.webp" alt="La murga Doña Bastarda en un tablado de Montevideo" />
+        <figcaption>
+          La murga Doña Bastarda en un tablado de Montevideo.
+          <cite>Foto: Ignacio Sánchez</cite>
+        </figcaption>
+      </figure>
 
-    <p><strong>Fuentes:</strong></p>
-    <p>Alfaro, M. (1991). "Carnaval. Una historia social de Montevideo desde la perspectiva de la fiesta". Ediciones Trilce</p>
-    <p>Cruz, A. L. (2020). "Carnaval de todos los tiempos". Plataforma Ceibal</p>
-    <p>DAECPU. "Historia del Carnaval Uruguayo". daecpu.org.uy</p>
-    <p>Escuela 11 Melo. "El Carnaval del Uruguay". UNAM</p>
-    <p>Intendencia de Montevideo. (2015). "Historia del Carnaval". montevideo.gub.uy</p>`,
+      <p>A lo largo de toda esta historia hay algo que se mantiene igual: el carnaval siempre fue un espacio de crítica y resistencia, desde los romanos que se burlaban de los senadores hasta las murgas de hoy que cada año desarman la actualidad política con cuplés afilados. Las élites de todos los períodos intentaron controlarlo sin nunca poder eliminarlo del todo: el primer Bando de Carnaval de Montevideo es de 1799, y desde entonces, como documenta Alfaro, la historia de la fiesta es también la historia de una tensión permanente entre el pueblo que se da a sí mismo la fiesta y las autoridades que buscan dársela en sus propios términos. A fines del siglo XIX ese proceso terminó en la transformación del "carnaval bárbaro" en el "carnaval civilizado" de desfiles ordenados y tablados barriales: lo que se ganó en organización y espectáculo, se perdió en participación directa. Aun así, incluso en su forma más institucional, el carnaval uruguayo conserva algo de ese impulso original.</p>
+
+      <p>El carnaval de hoy conserva la forma del rito que lo vio nacer, pero la sociedad que lo sostiene ya no es la misma: más fragmentada, más atenta a de qué lado canta cada murga que al simple hecho de que cante. <strong>El carnaval sigue siendo, en el fondo, la forma en que una sociedad se mira a sí misma con el disfraz puesto y se permite decir lo que piensa,</strong> solo que hoy decirlo implica también decir desde dónde.</p>
+
+      <figure>
+        <img src="img/carnaval-2.webp" alt="Murga Cayo la Cabra en el desfile inaugural de Carnaval 2018" />
+        <figcaption>
+          Murga Cayo la Cabra en el desfile inaugural de Carnaval 2018 por Av. 18 de Julio en Montevideo.
+          <cite>Foto: Marcelo Bonjour</cite>
+        </figcaption>
+      </figure>
+
+      <p><strong>Fuentes:</strong></p>
+      <p>Alfaro, M. (1991). "Carnaval. Una historia social de Montevideo desde la perspectiva de la fiesta". Ediciones Trilce</p>
+      <p>Cruz, A. L. (2020). "Carnaval de todos los tiempos". Plataforma Ceibal</p>
+      <p>DAECPU. "Historia del Carnaval Uruguayo". daecpu.org.uy</p>
+      <p>Escuela 11 Melo. "El Carnaval del Uruguay". UNAM</p>
+      <p>Intendencia de Montevideo. (2015). "Historia del Carnaval". montevideo.gub.uy</p>
+    `,
     sobreElAutor:
       "Jairo es un estudiante de Ánima. Creció entre pantallas y parlantes, y encontró en la música urbana uruguaya el mismo espíritu que lo lleva a construir cosas desde cero: tomar algo de afuera y hacerlo propio.",
   },
@@ -74,58 +77,62 @@ const articulos = [
     titulo: "Historia del Rock Uruguayo: orígenes, identidad y consolidación",
     autor: "Gonzalo Gomez",
     cuerpo: `
+      <p>Para entender el rock uruguayo, primero hay que mirar toda la música que ya existía antes. La música en Uruguay nació de la mezcla de distintas culturas y costumbres que fueron llegando al país con los años. Gracias a esa combinación de estilos y tradiciones se fue formando una identidad propia que más adelante ayudó a que creciera el rock nacional.</p>
 
-    <p><strong>Las raíces culturales: el suelo donde creció el rock</strong></p>
-    <p>Para entender el rock uruguayo, primero hay que mirar toda la música que ya existía antes. La música en Uruguay nació de la mezcla de distintas culturas y costumbres que fueron llegando al país con los años. Gracias a esa combinación de estilos y tradiciones se fue formando una identidad propia que más adelante ayudó a que creciera el rock nacional.</p>
+      <h2>Los primeros chispazos (1965–1967): Los Shakers y el beat</h2>
 
-    <p><strong>Los primeros chispazos (1965–1967): Los Shakers y el beat</p></strong>
-    <p>Desde la década del 60´, bandas como Los Shakers y El Kinto fueron pioneras en la fusión del rock con ritmos locales, creando un sonido único que resonó en la juventud uruguaya. Los Shakers, que eran un grupo de jóvenes casi adolescentes, lanzaron en 1965  "Break It All", el primer hit rockero del Cono Sur. Fue grabada y difundida en Buenos Aires y hasta hoy suele confundirse con una canción temprana de The Beatles.</p>
+      <p>Desde la década del 60', bandas como Los Shakers y El Kinto fueron pioneras en la fusión del rock con ritmos locales, creando un sonido único que resonó en la juventud uruguaya. Los Shakers, que eran un grupo de jóvenes casi adolescentes, lanzaron en 1965 "Break It All", el primer hit rockero del Cono Sur. Fue grabada y difundida en Buenos Aires y hasta hoy suele confundirse con una canción temprana de The Beatles.</p>
 
-    <figure>
-      <img src="img/rock-1.png" alt="Los Shakers y El Kinto fueron pioneras en la fusión del rock" />
-      <figcaption>
-        Los Shakers y El Kinto fueron pioneras en la fusión del rock.
-        <cite>Foto: Little Butterfly Records</cite>
-      </figcaption>
-    </figure>
+      <figure>
+        <img src="img/rock-1.png" alt="Los Shakers y El Kinto fueron pioneras en la fusión del rock" />
+        <figcaption>
+          Los Shakers y El Kinto fueron pioneras en la fusión del rock.
+          <cite>Foto: Little Butterfly Records</cite>
+        </figcaption>
+      </figure>
 
-    <p>La banda pionera por excelencia fue El Kinto y estaba liderada por Eduardo Mateo y Rubén Rada, dos emblemas de la música uruguaya. Este grupo fue quien estableció el candombe-beat en la humilde escena montevideana. En las próximas décadas, el subgénero sería muy valorado en ambas orillas del Río de la Plata, llegando a influenciar a grupos masivos como Los Piojos, Bersuit, La Vela Puerca y No Te Va Gustar.</p>
+      <p>La banda pionera por excelencia fue El Kinto, liderada por Eduardo Mateo y Rubén Rada, dos emblemas de la música uruguaya. Este grupo fue quien estableció el candombe-beat en la humilde escena montevideana. En las próximas décadas, el subgénero sería muy valorado en ambas orillas del Río de la Plata, llegando a influenciar a grupos masivos como Los Piojos, Bersuit, La Vela Puerca y No Te Va Gustar.</p>
 
-    <p><strong>El silencio obligado: la dictadura (1973–1983)</strong></p>
-    <p>Llegados los 70´, la dictadura cívico-militar en años de absoluta opresión, se encargó de abortar bruscamente los tiempos locos del rock uruguayo. Además del corte que literalmente acabó con el rock urbano, debieron exiliarse las principales figuras del folclorismo: Alfredo Zitarrosa, Daniel Viglietti y Los Olimareños, entre otros.</p>
+      <h2>El silencio obligado: la dictadura (1973–1983)</h2>
 
-    <p><strong>El rock después de la dictadura (1983–1989)</strong></p>    
-    <p>Luego, llegó el esperado resurgimiento que comenzó en 1983, cuando la dictadura ya estaba llegando a su fin y se empezaron a recuperar algunas libertades, especialmente en el ámbito cultural. En ese contexto aparecieron nuevas bandas como Los Estómagos, Los Traidores, Los Tontos, La Tabaré, El Cuarteto de Nos y Zero, entre otras, donde cada una tenía su propio estilo, desde el punk hasta el ska y la new wave.  Muchas de ellas participaron en el disco recopilatorio Graffiti, lanzado en 1985, que hoy es considerado uno de los puntos de partida del rock uruguayo moderno.</p>
+      <p>Llegados los 70', la dictadura cívico-militar, en años de absoluta opresión, se encargó de abortar bruscamente los tiempos locos del rock uruguayo. Además del corte que literalmente acabó con el rock urbano, debieron exiliarse las principales figuras del folclorismo: Alfredo Zitarrosa, Daniel Viglietti y Los Olimareños, entre otros.</p>
 
-    <p><strong>Las influencias que dieron forma al sonido</strong></p>
-    <p>Dos figuras clave canalizaron esas influencias desde el exterior. El músico Jaime Roos y el productor Alfonso Carbone tienen en común el haber recorrido Europa, para constituirse a su regreso en generadores de nuevos modelos de gestión cultural.</p> 
+      <h2>El rock después de la dictadura (1983–1989)</h2>
 
-    <figure>
-      <img src="img/rock-2.png" alt="Bandas que influenciaron el rock uruguayo" />
-      <figcaption>
-        Bandas que influenciaron el rock uruguayo
-        <cite>Foto: Bandas que influenciaron el rock uruguayo</cite>
-      </figcaption>
-    </figure>
+      <p>Luego llegó el esperado resurgimiento que comenzó en 1983, cuando la dictadura ya estaba llegando a su fin y se empezaron a recuperar algunas libertades, especialmente en el ámbito cultural. En ese contexto aparecieron nuevas bandas como Los Estómagos, Los Traidores, Los Tontos, La Tabaré, El Cuarteto de Nos y Zero, entre otras, donde cada una tenía su propio estilo, desde el punk hasta el ska y la new wave. Muchas de ellas participaron en el disco recopilatorio Graffiti, lanzado en 1985, que hoy es considerado uno de los puntos de partida del rock uruguayo moderno.</p>
 
-    <p>En 1986, el festival Montevideo Rock reunió a miles de personas y marcó un antes y un después para el rock nacional que congregó a 50.000 personas en tres fechas, incluyendo a Los Prisioneros de Chile, Legião Urbana de Brasil, y Sumo y Fito Páez de Argentina. Fue un hecho bisagra para el rock uruguayo.
-    Ya pasados los 90´, vino el recambio generacional que trajo el punk melódico de Trotsky Vengarán, el post-punk de Buenos Muchachos y el hard-rock de La Trampa, Mano Negra quien dió un histórico concierto en Montevideo que resultó en el nacimiento de La Abuela Coca, primera banda de rock mestizo de Uruguay, subgénero que tendría muchos continuadores como La Vela Puerca y No Te Va Gustar.</p>
+      <h2>Las influencias que dieron forma al sonido</h2>
 
-    <p>También aparecen Buitres y Níquel, quienes fueron las bandas más populares en ese momento. Níquel logró su salto a la popularidad en 1991 con "Candombe de la aduana", probablemente el mayor hit del rock uruguayo pre-consolidación. Ambas bandas llenaron el Teatro de Verano en 1993, toda una hazaña para una banda nacional en ese entonces.</p>
- 
-    <p>En 1994, El Cuarteto de Nos lanzó "Otra navidad en las trincheras", nada menos que el disco más vendido de la historia del rock nacional, que los llevó a su primer show repleto en el Teatro de Verano ante más de cinco mil personas.</p>
-    
-    <p><strong>La consolidación definitiva (1999–2006): Uruguay rockero ante el mundo </p></strong>
-    <p>La consolidación definitiva, fue el festival Pilsen Rock, realizado por primera vez en 2003, fue el gran símbolo de esta masificación. En su edición de 2006 se cobró entrada por primera vez y fue la más convocante de toda la historia del festival y del rock uruguayo: 145.000 personas, dando pruebas contundentes de que el rock uruguayo era por fin un fenómeno masivo y popular.</p>
+      <p>Dos figuras clave canalizaron esas influencias desde el exterior. El músico Jaime Roos y el productor Alfonso Carbone tienen en común el haber recorrido Europa, para constituirse a su regreso en generadores de nuevos modelos de gestión cultural.</p>
 
-    <p><strong>La identidad: lo que hace único al rock uruguayo</strong></p>
-    <p>Resumiendo, a medida que el mundo se fue conectando más, llegaron nuevas influencias de varias partes, que los músicos aprovecharon para experimentar y crear sonidos propios, creando una música variada, creativa y siempre en movimiento que fue construyendo una identidad propia que distingue a nuestro rock hasta el día de hoy.
-    <p>Como reflexión, lo más interesante del rock uruguayo es cómo fue cambiando sin perder su esencia. En sus inicios era una forma de expresarse y de ir un poco contra lo establecido, y durante los años de represión muchas canciones sirvieron para decir cosas que no siempre se podían decir de frente. Con el tiempo empezó a hablar de problemas sociales, de la realidad del país y también de cosas cotidianas que le pasan a cualquiera y también cuentan historias que hacen pensar y muestran que la música también puede ser una forma de expresar lo que uno siente o lo que no le gusta de la realidad.</p>
+      <figure>
+        <img src="img/rock-2.png" alt="Bandas que influenciaron el rock uruguayo" />
+        <figcaption>
+          Bandas que influenciaron el rock uruguayo.
+          <cite>Foto: Little Butterfly Records</cite>
+        </figcaption>
+      </figure>
 
-    <p><strong>Fuentes:</strong></p>
-    <p>Cultura Rock (2024). "culturarock.video.blog/2024/05/04/historia-del-rock-uruguayo"</p>
-    <p>Victor Palacios (2025). "centroculturalpareja.com/la-musica-uruguaya-diversidad-cultural"</p>
-    <p>Gabriel Peveroni. "henciclopedia.org.uy/autores/Peveroni/RockUruguayo.htm"</p>    
+      <p><strong>En 1986, el festival Montevideo Rock reunió a 50.000 personas en tres fechas,</strong> incluyendo a Los Prisioneros de Chile, Legião Urbana de Brasil, y Sumo y Fito Páez de Argentina. Fue un hecho bisagra para el rock uruguayo. Ya pasados los 90', vino el recambio generacional que trajo el punk melódico de Trotsky Vengarán, el post-punk de Buenos Muchachos y el hard-rock de La Trampa. Mano Negra dio un histórico concierto en Montevideo que resultó en el nacimiento de La Abuela Coca, primera banda de rock mestizo de Uruguay, subgénero que tendría muchos continuadores como La Vela Puerca y No Te Va Gustar.</p>
+
+      <p>También aparecen Buitres y Níquel, quienes fueron las bandas más populares en ese momento. <strong>Níquel logró su salto a la popularidad en 1991 con "Candombe de la aduana", probablemente el mayor hit del rock uruguayo pre-consolidación.</strong> Ambas bandas llenaron el Teatro de Verano en 1993, toda una hazaña para una banda nacional en ese entonces.</p>
+
+      <p><strong>En 1994, El Cuarteto de Nos lanzó "Otra navidad en las trincheras", el disco más vendido de la historia del rock nacional,</strong> que los llevó a su primer show repleto en el Teatro de Verano ante más de cinco mil personas.</p>
+
+      <h2>La consolidación definitiva (1999–2006): Uruguay rockero ante el mundo</h2>
+
+      <p>El festival Pilsen Rock, realizado por primera vez en 2003, fue el gran símbolo de esta masificación. <strong>En su edición de 2006 se cobró entrada por primera vez y fue la más convocante de toda la historia del festival: 145.000 personas,</strong> dando pruebas contundentes de que el rock uruguayo era por fin un fenómeno masivo y popular.</p>
+
+      <h2>La identidad: lo que hace único al rock uruguayo</h2>
+
+      <p>A medida que el mundo se fue conectando más, llegaron nuevas influencias de varias partes, que los músicos aprovecharon para experimentar y crear sonidos propios, construyendo una música variada, creativa y siempre en movimiento que fue forjando una identidad propia que distingue a nuestro rock hasta el día de hoy.</p>
+
+      <p>Lo más interesante del rock uruguayo es cómo fue cambiando sin perder su esencia. En sus inicios era una forma de expresarse y de ir un poco contra lo establecido, y durante los años de represión muchas canciones sirvieron para decir cosas que no siempre se podían decir de frente. Con el tiempo empezó a hablar de problemas sociales, de la realidad del país y también de cosas cotidianas que le pasan a cualquiera, mostrando que la música también puede ser una forma de expresar lo que uno siente o lo que no le gusta de la realidad.</p>
+
+      <p><strong>Fuentes:</strong></p>
+      <p>Cultura Rock (2024). "culturarock.video.blog/2024/05/04/historia-del-rock-uruguayo"</p>
+      <p>Victor Palacios (2025). "centroculturalpareja.com/la-musica-uruguaya-diversidad-cultural"</p>
+      <p>Gabriel Peveroni. "henciclopedia.org.uy/autores/Peveroni/RockUruguayo.htm"</p>
     `,
     sobreElAutor:
       "Soy Gonzalo, un estudiante de Ánima. Me gustan los proyectos y disfruto cada desafío que se presenta, porque nunca es tarde para seguir aprendiendo.",
@@ -135,48 +142,48 @@ const articulos = [
     titulo: "Los primeros versos: el nacimiento del Rap en nuestro país",
     autor: "Federico Gutierrez",
     cuerpo: `
-    <p>El rap es hoy uno de los géneros musicales más escuchados del mundo. Se lo encuentra en plataformas digitales, redes sociales y emisoras de radio. Sin embargo, no muchas personas conocen en profundidad cómo llegó este género a Uruguay y de qué manera se fue transformando hasta convertirse en un movimiento propio. Lo que comenzó como un movimiento cultural surgido en los barrios marginales de Nueva York, continuó cruzando fronteras y llegando a nuestro país.</p>
+      <p>El rap es hoy uno de los géneros musicales más escuchados del mundo. Se lo encuentra en plataformas digitales, redes sociales y emisoras de radio. Sin embargo, no muchas personas conocen en profundidad cómo llegó este género a Uruguay y de qué manera se fue transformando hasta convertirse en un movimiento propio. Lo que comenzó como un movimiento cultural surgido en los barrios marginales de Nueva York, continuó cruzando fronteras y llegando a nuestro país.</p>
 
-    <h2>Los orígenes: Nueva York como cuna del rap</h2>
+      <h2>Los orígenes: Nueva York como cuna del rap</h2>
 
-    <p>El rap tiene sus comienzos en 1970 en la ciudad de Nueva York, impulsado por comunidades afroamericanas y latinas que buscaban expresar su descontento frente a la desigualdad social. Desde el principio, el género estuvo muy vinculado a lo que se vive en los barrios más vulnerables: el rap era una forma de contar la realidad cuando otros medios no daban voz a esas cosas que pasaban en el ambiente urbano. <strong>Una de las canciones que contribuyó notoriamente a la difusión internacional del género fue "Rapper's Delight" de The Sugarhill Gang, lanzada en 1979.</strong> Gracias a su popularidad, el rap comenzó a cruzar fronteras y conocer culturas diferentes.</p>
+      <p>El rap tiene sus comienzos en 1970 en la ciudad de Nueva York, impulsado por comunidades afroamericanas y latinas que buscaban expresar su descontento frente a la desigualdad social. Desde el principio, el género estuvo muy vinculado a lo que se vive en los barrios más vulnerables: el rap era una forma de contar la realidad cuando otros medios no daban voz a esas cosas que pasaban en el ambiente urbano. <strong>Una de las canciones que contribuyó notoriamente a la difusión internacional del género fue "Rapper's Delight" de The Sugarhill Gang, lanzada en 1979.</strong> Gracias a su popularidad, el rap comenzó a cruzar fronteras y conocer culturas diferentes.</p>
 
-    <h2>Las primeras señales en Uruguay</h2>
+      <h2>Las primeras señales en Uruguay</h2>
 
-    <p>En Uruguay, las primeras señales de rap comenzaron a aparecer durante 1980, cuando jóvenes empezaron a descubrir artistas extranjeros a través de grabaciones traídas del exterior, ya que acceder a este tipo de música era muy limitado en el país. <strong>En 1988, el músico uruguayo Renzo Teflón grabó "Fuimos campeones en el 30", considerada la primera canción de rap en la historia del hip hop en Uruguay.</strong> Este tema apareció en su álbum <em>Je-Je</em>, lanzado ese mismo año, y fue llamativo porque Teflón no era un artista del género, sino un cantante de rock que incorporó estrofas rapeadas en sus canciones. Aunque el rap todavía no tenía tanta presencia en el país, estas primeras experimentaciones abrieron una puerta importante para los artistas locales que vendrían después.</p>
+      <p>En Uruguay, las primeras señales de rap comenzaron a aparecer durante 1980, cuando jóvenes empezaron a descubrir artistas extranjeros a través de grabaciones traídas del exterior, ya que acceder a este tipo de música era muy limitado en el país. <strong>En 1988, el músico uruguayo Renzo Teflón grabó "Fuimos campeones en el 30", considerada la primera canción de rap en la historia del hip hop en Uruguay.</strong> Este tema apareció en su álbum <em>Je-Je</em>, lanzado ese mismo año, y fue llamativo porque Teflón no era un artista del género, sino un cantante de rock que incorporó estrofas rapeadas en sus canciones. Aunque el rap todavía no tenía tanta presencia en el país, estas primeras experimentaciones abrieron una puerta importante para los artistas locales que vendrían después.</p>
 
-    <p>Ese mismo año, uno de los futuros integrantes de Víctimas del Sistema, conocido como D-Mente, regresó al país tras haber vivido quince años en Dinamarca, trayendo consigo grabaciones de artistas como Beastie Boys, Run DMC y LL Cool J. En el barrio comenzó a compartirlas con otros jóvenes y juntos decidieron aprender a hacer rap de forma completamente autodidacta. En Uruguay el género era ignorado por los medios y era imposible conseguir discos, pero lejos de desanimarse, estos jóvenes siguieron adelante motivados por la pasión hacia un género que sentían como propio.</p>
+      <p>Ese mismo año, uno de los futuros integrantes de Víctimas del Sistema, conocido como D-Mente, regresó al país tras haber vivido quince años en Dinamarca, trayendo consigo grabaciones de artistas como Beastie Boys, Run DMC y LL Cool J. En el barrio comenzó a compartirlas con otros jóvenes y juntos decidieron aprender a hacer rap de forma completamente autodidacta. En Uruguay el género era ignorado por los medios y era imposible conseguir discos, pero lejos de desanimarse, estos jóvenes siguieron adelante motivados por la pasión hacia un género que sentían como propio.</p>
 
-    <h2>Los 90': el movimiento toma forma</h2>
+      <h2>Los 90': el movimiento toma forma</h2>
 
-    <p>El rap en Uruguay comenzó a tomar fuerza a comienzos de los 90', con la aparición de grupos pioneros como Fun You Stupid!, Critical Zone y Víctimas del Sistema. <strong>En 1994, ya consolidados como grupo, Víctimas del Sistema debutaron en la discoteca "Amarillo" junto a Fun You Stupid</strong>, y comenzaron a moverse por los circuitos underground de Montevideo, presentándose en fiestas de hip hop, campeonatos de skate, teatros, bares y festivales. Estas presentaciones en vivo fueron clave para el movimiento, ya que las letras trataban la realidad social del país y de Latinoamérica, y conectaban con un público joven que buscaba nuevas formas de expresión.</p>
+      <p>El rap en Uruguay comenzó a tomar fuerza a comienzos de los 90', con la aparición de grupos pioneros como Fun You Stupid!, Critical Zone y Víctimas del Sistema. <strong>En 1994, ya consolidados como grupo, Víctimas del Sistema debutaron en la discoteca "Amarillo" junto a Fun You Stupid</strong>, y comenzaron a moverse por los circuitos underground de Montevideo, presentándose en fiestas de hip hop, campeonatos de skate, teatros, bares y festivales. Estas presentaciones en vivo fueron clave para el movimiento, ya que las letras trataban la realidad social del país y de Latinoamérica, y conectaban con un público joven que buscaba nuevas formas de expresión.</p>
 
-    <p>En 1997 nació La Teja Pride, banda y colectivo de hip hop cuyo nombre viene del barrio La Teja. Durante dos años a partir de 1998 armaron un programa en la radio comunitaria Alternativa FM para difundir rap, electrónica y funk, ante la falta del género en los medios convencionales. Este esfuerzo por dar difusión al género demuestra lo comprometida que estaba la escena uruguaya con el movimiento.</p>
+      <p>En 1997 nació La Teja Pride, banda y colectivo de hip hop cuyo nombre viene del barrio La Teja. Durante dos años a partir de 1998 armaron un programa en la radio comunitaria Alternativa FM para difundir rap, electrónica y funk, ante la falta del género en los medios convencionales. Este esfuerzo por dar difusión al género demuestra lo comprometida que estaba la escena uruguaya con el movimiento.</p>
 
-    <p><strong>A fines de 1999, Víctimas del Sistema y otros grupos dieron un paso colectivo muy importante al lanzar el compilado <em>Sudacas en Guerra</em> (volumen 1)</strong>, que juntaba a las bandas del colectivo: "VDS", "La Revolución", "El Lado Oscuro" y "Último Xiclón". Este junte buscaba no solo difundir la música sino también generar una red de apoyo entre los artistas del género, en un contexto donde los medios de comunicación seguían ignorando al hip hop uruguayo.</p>
+      <p><strong>A fines de 1999, Víctimas del Sistema y otros grupos dieron un paso colectivo muy importante al lanzar el compilado <em>Sudacas en Guerra</em> (volumen 1)</strong>, que juntaba a las bandas del colectivo: "VDS", "La Revolución", "El Lado Oscuro" y "Último Xiclón". Este junte buscaba no solo difundir la música sino también generar una red de apoyo entre los artistas del género, en un contexto donde los medios de comunicación seguían ignorando al hip hop uruguayo.</p>
 
-    <h2>El auge y la identidad propia</h2>
+      <h2>El auge y la identidad propia</h2>
 
-    <p>A partir del año 2003, La Teja Pride firmó con la discográfica local Bizarro Records, lo que impulsó el desarrollo del género en el país. Luego del 2005 el rap experimentó un auge con la aparición de nuevos grupos como Beat Urbano y Arrajatabla Flow Club & The Warriors. Cada grupo comenzó a incorporar elementos propios de la cultura uruguaya: Contra las Cuerdas fusionó el rap con el candombe, La Teja Pride con la electrónica, AFC con el rock. <strong>Esta búsqueda de identidad local fue lo que diferenció al rap uruguayo del resto de la región: no se trataba de copiar un modelo importado, sino de apropiarse de él y transformarlo en algo propio.</strong></p>
+      <p>A partir del año 2003, La Teja Pride firmó con la discográfica local Bizarro Records, lo que impulsó el desarrollo del género en el país. Luego del 2005 el rap experimentó un auge con la aparición de nuevos grupos como Beat Urbano y Arrajatabla Flow Club & The Warriors. Cada grupo comenzó a incorporar elementos propios de la cultura uruguaya: Contra las Cuerdas fusionó el rap con el candombe, La Teja Pride con la electrónica, AFC con el rock. <strong>Esta búsqueda de identidad local fue lo que diferenció al rap uruguayo del resto de la región: no se trataba de copiar un modelo importado, sino de apropiarse de él y transformarlo en algo propio.</strong></p>
 
-    <p>En conclusión, el rap en Uruguay es un movimiento construido desde abajo, por jóvenes sin recursos ni reconocimiento que encontraron en la música una forma de convertir las protestas en rimas y poesía. Hoy es una parte fundamental de la cultura musical uruguaya, y su historia es también la historia de una generación que se negó a ser ignorada.</p>
+      <p>En conclusión, el rap en Uruguay es un movimiento construido desde abajo, por jóvenes sin recursos ni reconocimiento que encontraron en la música una forma de convertir las protestas en rimas y poesía. Hoy es una parte fundamental de la cultura musical uruguaya, y su historia es también la historia de una generación que se negó a ser ignorada.</p>
 
-    <p><strong>Fuentes:</strong></p>
-    <p>Cano, M. (2023). El hip hop en Uruguay. Librevista, n°53 (librevista.com)</p>
-    <p>Cient8chenta (2010). Entre rap y hip hop (180.com.uy)<p>
-    <p>El Observador (2018). Esto no es una moda: cómo el rap se hizo uruguayo (elobservador.com.uy)</p>
-    <p>Estuario Editora (2024). Uruguayan Locos (estuarioeditora.com)</p>
-    <p>La Factoría del Ritmo (2000). Rap uruguayo (lafactoriadelritmo.com)</p>
-    <p>Rapealo (s.f.). La historia más completa del hip hop (rapealo.com)</p>
-    <p>Wikipedia (s.f.). Hip hop latino</p>
-    <p>Wikipedia (s.f.). Renzo Teflón</p>`,
+      <p><strong>Fuentes:</strong></p>
+      <p>Cano, M. (2023). El hip hop en Uruguay. Librevista, n°53 (librevista.com)</p>
+      <p>Cient8chenta (2010). Entre rap y hip hop (180.com.uy)<p>
+      <p>El Observador (2018). Esto no es una moda: cómo el rap se hizo uruguayo (elobservador.com.uy)</p>
+      <p>Estuario Editora (2024). Uruguayan Locos (estuarioeditora.com)</p>
+      <p>La Factoría del Ritmo (2000). Rap uruguayo (lafactoriadelritmo.com)</p>
+      <p>Rapealo (s.f.). La historia más completa del hip hop (rapealo.com)</p>
+      <p>Wikipedia (s.f.). Hip hop latino</p>
+      <p>Wikipedia (s.f.). Renzo Teflón</p>
+    `,
     sobreElAutor:
       "Soy Federico Gutiérrez, tengo 20 años y estudio en Ánima. Me gusta el arte urbano y aprender sobre la cultura de mi país, en este articulo nos adentramos en la evolución del rap en Uruguay y observamos como protestas se convirtieron en versos.",
   },
   {
     id: 4,
-    titulo:
-      "El latido emigrante: cómo la plena echó raíces en el alma Uruguaya",
+    titulo: "El latido emigrante: cómo la plena echó raíces en el alma Uruguaya",
     autor: "Nicole Silva",
     cuerpo: `
       <p><strong>Este texto explora el viaje cultural y emocional de la plena,</strong> un ritmo nacido en el Caribe portorriqueño que, desafiando distancias geográficas, se transformó en uno de los pilares de la identidad popular de Uruguay. A través de un recorrido histórico y social, se analiza cómo los sectores obreros rioplatenses adoptaron y moldearon esta música, convirtiéndola en una herramienta de expresión comunitaria viva y en un reflejo de que el arte es, en última instancia, el canal sensorial por el cual los pueblos comunican aquello que las palabras no alcanzan a contener.</p>
